@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#sec{
+    display: flex;
+    justify-content: center;
+}
+#img-1{
+    margin-left: 15px;
+        
+}
+
+#img-3{
+    margin-left: 15px;
+        
+}
